@@ -10,7 +10,7 @@ number-essay
 		<ul>
 			<li>in between `<div class="essay">` and `</div>`</li>
 			<li>place `<p>` at the start of every paragraph and `</p>` at the end of every paragraph. Be sure to leave a space between `</p>` and the end of your sentence! (I could probably fix this, but I am too busy/lazy at the moment)</li>
-			<li>Replace all `'` in your paper with `&#39;`. If any other weird things show up in your print preview, use [this](http://www.ascii.cl/htmlcodes.htm) chart to fix them.</li>
+			<li>Replace all `'` in your paper with `&#39;`. If any other weird things show up in your print preview (step 10), use [this](http://www.ascii.cl/htmlcodes.htm) chart to fix them.</li>
 		</ul>
 	</li>
 	<li>Open `Command Prompt` (Windows) or `Terminal` (Mac/Linux)</li>
