@@ -14,7 +14,7 @@ number-essay
 		</ul>
 	</li>
 	<li>Open `Command Prompt` (Windows) or `Terminal` (Mac/Linux)</li>
-	<li>Run the following command: `cd Desktop/number-essay`</li>
+	<li>Run the following command: `cd Desktop/number-essay-master`</li>
 	<li>Run this command too: `npm install`</li>
 	<li>Then this command: `node withpipes.js`
 		<ul>
