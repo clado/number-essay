@@ -4,11 +4,15 @@
   "description": "A simple script that numbers the essays of frantic AP Comp students",
   "main": "withpipes.js",
   "dependencies": {
-    "through": "<=2.3.4",
-    "trumpet": "<=1.6.3"
-  }
+    "through": ">=2.3.4",
+    "trumpet": ">=1.6.3"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.0"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/clado/doesnthaveoneyetmuahahahahahaha"
+    "url": "git://github.com/clado/number-essay"
   }
 }
