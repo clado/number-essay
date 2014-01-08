@@ -1,0 +1,14 @@
+{
+  "name": "number-essay",
+  "version": "0.1.1",
+  "description": "A simple script that numbers the essays of frantic AP Comp students",
+  "main": "withpipes.js",
+  "dependencies": {
+    "through": "<=2.3.4",
+    "trumpet": "<=1.6.3"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clado/doesnthaveoneyetmuahahahahahaha"
+  }
+}
