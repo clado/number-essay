@@ -14,4 +14,4 @@ var file = fs.createWriteStream('pipedessay.html');
 var essay = fs.createReadStream('essay.html');
 
 essay.pipe(trump).pipe(file);
-console.log('Something has happened');
+console.log('Your essay should now be successfully numbered.');
